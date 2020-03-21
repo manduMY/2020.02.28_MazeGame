@@ -88,6 +88,7 @@
     <Compile Include="Assets\Script\Main\SceneLoader.cs" />
     <Compile Include="Assets\Script\mingyujoystick.cs" />
     <Compile Include="Assets\Script\SceneChange.cs" />
+    <Compile Include="Assets\Script\Timer.cs" />
     <Compile Include="Assets\Script\UIManager.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
@@ -129,6 +130,7 @@
     <None Include="Assets\Paintz Free\Scripts\Resources\Shaders\Utility\PaintPos.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+    <None Include="Assets\ColorfulButtons\Credits.txt" />
     <None Include="Assets\Paintz Free\Scripts\Resources\Shaders\Utility\PaintBlit.shader" />
     <None Include="Assets\Real Stars Skybox\Demo Scene\Documentation.txt" />
     <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Oswald-Bold - OFL.txt" />
